@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang=pr-br>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport"
+	concert=width=devace-width initial-scale=1.0>
+	<link rel="stylesheet" type="image/x-icon" href="imagem01">
+	<title> Linktree - Talilo Tarlison </title>
+	<style type="text/css">
+	 body {text-align:center;}
+	 ul.list {
+			 list-style:none;
+	}
+	</style> 
+</head>
+<body>
+	<h1>Minhas redes sociais</h1>	
+	<h2>Quem sou eu?</h2>
+	<img src="perfil.jpeg" title="Talilo Tarlison">
+	<p>Meu nome é <b> Talilo Tarlison</b>,nascido em 12/09/1994 e estou curso a nivel tecnico curso de Aux. Efermagem e a nivel superior Administração, tenho experiencia com vendas e markting digital e rede de computadores e agora estou entrando de vez na area de TI, me torna um futuro /Dev e Front And.</p>
+	<h2>Como falar comigo?</h2> 
+	<h4><ul class="list"><b> 
+		<li><img src="yt.png" width="20px" title="youtube"><a href="youtube.com/talilo.tarlison">/Youtube</a>Se inscreva lá no meu canal no Youtube.</li>
+		<li><img src="git.png" width="20px" title="github"> <a href="github.com/talilo.tarlison">/github</a>Acessa meu repositorio publico no GitHub.</li>
+		<li><img src="insta.png" width="20px" title="instragram"><a href="instagra.com/talilo.tarlison">/Instagram</a>Me segue la no instagram!</li>
+		<li><img src="facebook.png" width="20px" title="facebook"><a href="facebook.com/talilo.tarlison">/facebook</a> Me segue la no facebook!</li>
+		<li><img src="twitter.png" width="20px" title="twitter"><a href="twitter.com/talilo.tarlison">/twitter</a> me segue no twitter!</li>
+		<li><img src="linke.png" title="linked"><a href="linked.com/talilo.tarlison">/linked</a> Olhe meu perfil no Linked!</li>
+	</b></ul></h4>
+	
+</body>
+</html>
+
+		
