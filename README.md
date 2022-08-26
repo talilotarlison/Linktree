@@ -12,10 +12,10 @@
 </div>
 
 
-# Linktree
+### Linktree
 
-## 🏷️ detalhes do projeto.
+### 🏷️ detalhes do projeto.
 
-## linktree-copia
+### linktree-copia
 
-## ✅ pagina de link de redes sociais , montada apenas com html puro sem uso do css, feito no curso em vídeo.
+### ✅ pagina de link de redes sociais , montada apenas com html puro sem uso do css, feito no curso em vídeo.
