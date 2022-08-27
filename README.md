@@ -12,10 +12,10 @@
 </div>
 
 
-### Linktree
+### Linktree - Redes sociais de contato.
 
 ### 🏷️ detalhes do projeto.
 
-### linktree-copia
+### linktree-copia-html
 
 ### ✅ pagina de link de redes sociais , montada apenas com html puro sem uso do css, feito no curso em vídeo.
