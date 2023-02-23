@@ -16,6 +16,8 @@
 
 ### 🏷️ detalhes do projeto.
 
-### linktree-copia-html
+### linktree projeto copia
+-html
+-css
 
 ### ✅ pagina de link de redes sociais , montada apenas com html puro sem uso do css, feito no curso em vídeo.
